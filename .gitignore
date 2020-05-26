@@ -48,3 +48,6 @@ service-account.csr
 service-account.pem
 service-account-csr.json
 *.swp
+terraform.tfstate*
+.terraform
+kubernetes.pem
